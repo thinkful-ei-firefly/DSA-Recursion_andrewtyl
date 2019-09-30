@@ -1,5 +1,4 @@
 const sheep = function (num) {
-    //Base
     if (num === 0) {
         console.log('All sheep have jumped over the fence')
         return
